@@ -16,7 +16,7 @@ Always curious about new technologies and continuously improving my skills as a 
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 
 <p align="left">
   <a href="https://dev.to/mdfahim18" target="blank">
