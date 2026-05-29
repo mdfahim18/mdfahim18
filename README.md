@@ -3,16 +3,6 @@ A passionate frontend developer who loves building clean, interactive, and user-
 Always curious about new technologies and continuously improving my skills as a developer.
 </h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mdfahim18&label=Profile%20views&color=0e75b6&style=flat" alt="mdfahim18" />
-</p>
-
-<p align="left">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=mdfahim18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&title=Stars,Followers,Commits,Repositories,Experience,MultiLanguage"
-      alt="mdfahim18"
-    />
-</p>
 
 <h3 align="left">Socials:</h3>
 
