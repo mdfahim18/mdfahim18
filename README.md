@@ -8,12 +8,10 @@ Always curious about new technologies and continuously improving my skills as a 
 </p>
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       src="https://github-profile-trophy.vercel.app/?username=mdfahim18&theme=algolia&no-frame=true&no-bg=true&margin-w=8&title=Stars,Followers,Commits,Repositories,Experience,MultiLanguage"
       alt="mdfahim18"
     />
-  </a>
 </p>
 
 <h3 align="left">Socials:</h3>
