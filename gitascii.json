@@ -22028,7 +22028,7 @@
         "showOrgs": false,
         "customAchievements": "",
         "showFollowing": false,
-        "showJoined": true,
+        "showJoined": false,
         "showStatus": true,
         "showAchievements": true,
         "showHighlights": false,
@@ -22121,7 +22121,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795633859454_fijy1",
-    "updatedAt": "2026-11-25T19:11:06.791Z"
+    "revision": "rev_1795633954581_2msyd",
+    "updatedAt": "2026-11-25T19:12:40.132Z"
   }
 }
